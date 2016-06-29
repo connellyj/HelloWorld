@@ -1,4 +1,5 @@
 changed in master
+changed in cons2
 changed this
 redoing line
 test
