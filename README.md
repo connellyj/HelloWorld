@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 changed in cons3
+=======
+actually cons3
+>>>>>>> 4be40dd36bc01d1a2102be38c0e4100cd6dc9998
 changed in master
 changed in cons2
 changed this
