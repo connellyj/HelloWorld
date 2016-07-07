@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+adding
+=======
+dif changes
+>>>>>>> ed4cb4f73dabe2c8c6d8d915228abe34d2160501
+<<<<<<< HEAD
 changes!
 <<<<<<< HEAD
 <<<<<<< HEAD
